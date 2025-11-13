@@ -2,9 +2,9 @@
 
 | Category | Tools & Languages |
 |-----------|-------------------|
-| **Core** | Python, JavaScript (Node.js), C/C++, Java |
+| **Core** | Python, C#, C++, Java |
 | **Web** | HTML, CSS, Streamlit |
-| **Data** | Pandas, NumPy, SQLite, Altair, Graphviz |
+| **Data** | Altair, Graphviz, Pandas, NumPy |
 | **Versioning & DevOps** | Git, GitHub|
-| **Design & Media** | Canva, Audacity, FL Studio |
+| **Design & Media** | Unity, Graphviz |
 
