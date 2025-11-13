@@ -1,10 +1,21 @@
-👋 Hi, I’m Stellar
+### Paul Joel Perez
 
-I like pigs
+1st=Year CS Student at Mapúa University
 
-I am looking to be a game developer for either a big studio or as an indie developer.
+- **Backend Development** — Fast, clean, and scalable APIs.  
+- **Data & Research** — Quantitative studies, simulations, and dataset creation.  
 
-I am learning how to code in C# and use Unity to make games.
 
-You can contact me via these apps:
-Discord: Stellar#5561 Twitter: @Stellarpiggi
+| Category | Tools & Languages |
+|-----------|-------------------|
+| **Core** | Python, JavaScript (Node.js), C/C++, Java |
+| **Web** | HTML, CSS, React, Express.js, Flask |
+| **Data** | Pandas, NumPy, SQLite, Excel automation |
+| **Versioning & DevOps** | Git, GitHub, Linux, Docker (learning) |
+| **Design & Media** | Figma, Canva, Audacity, FL Studio |
+
+
+**Contact**
+
+pjdperez@mymail.mapua.edu.ph 
+
