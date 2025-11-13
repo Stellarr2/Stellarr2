@@ -1,10 +1,4 @@
-### Paul Joel Perez
-
-1st-Year CS Student at Mapúa University
-
-- **Backend Development** — Fast, clean, and scalable APIs.  
-- **Data & Research** — Quantitative studies, simulations, and dataset creation.  
-
+### Paul Joel D. Perez
 
 | Category | Tools & Languages |
 |-----------|-------------------|
@@ -13,9 +7,4 @@
 | **Data** | Pandas, NumPy, SQLite, Excel automation |
 | **Versioning & DevOps** | Git, GitHub|
 | **Design & Media** | Canva, Audacity, FL Studio |
-
-
-**Contact**
-
-pjdperez@mymail.mapua.edu.ph 
 
