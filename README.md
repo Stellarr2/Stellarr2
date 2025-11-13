@@ -5,6 +5,6 @@
 | **Core** | Python, C#, C++, Java |
 | **Web** | HTML, CSS, Streamlit |
 | **Data** | Altair, Graphviz, Pandas, NumPy |
-| **Versioning & DevOps** | Git, GitHub|
-| **Design & Media** | Unity, Graphviz |
+| **Version Control** | Git, GitHub|
+| **Others** | Unity, Graphviz |
 
